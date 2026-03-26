@@ -1,8 +1,8 @@
-# Olá, eu sou o Luiz Felipe 👋
+# Olá, eu sou o Luiz Felipe!
 
 ### 🔐 Estudante de Segurança da Informação | Construindo minha base do zero
 
-Sou estudante de **Segurança da Informação** pela Anhanguera e curso técnico de **Informática para Internet** pelo IFES. Estou no início da minha jornada na área de cibersegurança — aprendendo os fundamentos com consistência e foco.
+Sou estudante de **Segurança da Informação** pela Anhanguera e curso técnico de **Informática para Internet** pelo IFES. Estou no início da minha jornada na área de cibersegurança, aprendendo os fundamentos com consistência e foco.
 
 ---
 
