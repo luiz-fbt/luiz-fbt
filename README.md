@@ -1,4 +1,4 @@
-# Olá, eu sou o Luiz Felipe 👋
+# Olá, eu sou o Luiz Felipe!
 
 ### 🔐 Estudante de Segurança da Informação | Construindo minha base do zero
 
@@ -39,7 +39,3 @@ Estou seguindo uma trilha estruturada do zero até o mercado como **Security Eng
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-bonfim-turini-14a568357)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizf.bturini@gmail.com)
-
----
-
-⭐ *Sempre aprendendo. Sempre evoluindo.*
