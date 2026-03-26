@@ -1,19 +1,21 @@
-# Olá, eu sou o Luiz Felipe!
+# Olá, eu sou o Luiz Felipe 👋
 
 ### 🔐 Estudante de Segurança da Informação | Construindo minha base do zero
 
-Sou estudante de **Segurança da Informação** pela Anhanguera e curso técnico de **Informática para Internet** pelo IFES. Estou no início da minha jornada na área de cibersegurança, aprendendo os fundamentos com consistência e foco.
+Sou estudante de **Segurança da Informação** pela Anhanguera e curso técnico de **Informática para Internet** pelo IFES. Estou no início da minha jornada na área de cibersegurança — aprendendo os fundamentos com consistência e foco.
 
 ---
 
 ## 🛠️ Atualmente aprendendo
 
 **Infraestrutura & Segurança**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Redes](https://img.shields.io/badge/Redes-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Desenvolvimento Web**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
