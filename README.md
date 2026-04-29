@@ -1,6 +1,6 @@
 # Olá, eu sou o Luiz Felipe!
 
-### 🔐 Estudante de Segurança da Informação | Construindo minha base do zero
+### 💻 Estudante | Construindo minha base do zero
 
 Sou estudante de **Segurança da Informação** pela Anhanguera e curso técnico de **Informática para Internet** pelo IFES. Estou no início da minha jornada na área de cibersegurança, aprendendo os fundamentos com consistência e foco.
 
@@ -21,17 +21,25 @@ Sou estudante de **Segurança da Informação** pela Anhanguera e curso técnico
 
 ---
 
-## 🗺️ Roadmap pessoal
+## 🔐 Formação em Cibersegurança — Google
 
-Estou seguindo uma trilha estruturada do zero até o mercado como **Security Engineer**:
+Construí minha base técnica em Cybersecurity através do programa profissional da Google.
 
-- [x] Definir trilha de carreira (Security Engineer / DevSecOps / Pentest)
-- [ ] Fundamentos: Redes, Linux, SQL, JavaScript ← *aqui agora*
-- [ ] Prática paralela — TryHackMe e Hack The Box
-- [ ] Primeiros projetos e portfólio
-- [ ] Primeiras vagas (estágio / júnior)
-- [ ] Segurança aplicada — OWASP Top 10, boas práticas
-- [ ] Certificações conforme a carreira evoluir — eJPT, CompTIA Security+
+### Competências desenvolvidas
+
+- Princípios da Segurança da Informação (CIA, ameaças, vulnerabilidades)
+- Análise e gerenciamento de riscos
+- Controles de segurança e políticas organizacionais
+- Fundamentos de redes e segurança de redes
+- Monitoramento, logs e conceitos de SOC/SIEM
+- Resposta a incidentes e proteção de dados
+
+### Cursos concluídos
+
+- Foundations of Cybersecurity — Google / Coursera (2024)
+- Play It Safe: Manage Security Risks — Google / Coursera (2025)
+- Connect and Protect: Networks and Network Security — Google / Coursera (2025)
+- Tools of the Trade: Linux and SQL - Google / Coursera (2025)
 
 ---
 
