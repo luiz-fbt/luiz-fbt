@@ -1,6 +1,6 @@
 # Luiz Felipe
 
-Estudante de Segurança da Informação (Anhanguera) e Técnico em Informática para Internet (IFES). Estou construindo minha base em cibersegurança do zero, com foco em redes, Linux e ferramentas de análise de segurança, e buscando minha primeira oportunidade em TI.
+Cursando Tecnólogo em Segurança da Informação pela instituição Anhanguera e Técnico em Informática no Instituto Federal do Espírito Santo. Estou construindo minha base em cibersegurança do zero, com foco em redes, Linux e ferramentas de análise de segurança.
 
 No momento estou estruturando meus primeiros projetos práticos para publicar aqui em breve.
 
@@ -45,14 +45,9 @@ Cursando o 3º período (08/2025 a 07/2027)
 - Word, Excel e PowerPoint 2013
 - Manutenção de Computadores
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
-![Streak do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO)
-
 ## Contato
 
-> "Podemos enxergar apenas uma pequena distância à nossa frente, mas podemos ver que há muito a ser feito." Alan Turing
+> "Podemos enxergar apenas uma pequena distância à nossa frente, mas podemos ver que há muito a ser feito." - Alan Turing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luizfelipebt)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizf.bturini@gmail.com)
